@@ -13,7 +13,7 @@ https://github.com/getian107/PRScs/issues/13#issuecomment-632860500
 ### Scripts:
 - `1.extract_eur.sh`: Script that extracts unrelated EUR samples from the joint call set.
 - `2.qc.sh`: Script for variant QC.
-- `3.maf.sh`: Script that annotates MAF information.
+- `3.annotate_maf.sh`: Script that annotates MAF information.
 - `4.extract_snp.sh`: Script that extracts SNP column.
 - `5.reformat_eur_ldblk.sh`: Script that reformats `pyrho_EUR_LD_blocks.bed`.
 - `6.make_snpList.py`: Script that assigns SNPs within the range of each LD block.
