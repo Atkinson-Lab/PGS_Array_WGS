@@ -1,5 +1,5 @@
 # Array-PGS vs. WGS-PGS 
-### Here are the folders and file used for the PGS analyses in the paper:
+### Here are the directories and file used for the PGS analyses in the paper:
 
 - `All_of_Us`: Contains the main scripts used for PGS comptation on the *All of Us* platform. All individaul-level information has been removed. 
 
