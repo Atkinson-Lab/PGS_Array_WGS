@@ -19,7 +19,7 @@ https://github.com/getian107/PRScs/issues/13#issuecomment-632860500
 - `5.reformat_eur_ldblk.sh`: Script that reformats `pyrho_EUR_LD_blocks.bed`.
 - `6.make_snpList.py`: Script that assigns SNPs within the range of each LD block.
   - For each chromosome (e.g., `chr1`, `chr2`, etc.), there should be a folder named after the chromosome.
-  - Inside each folder, there will be several text files, each named after the **fifth column (`ref_blk`)** from the reference file (pyrho_EUR_LD_blocks).
+  - Inside each folder, there will be several text files, each named after the **fifth column (`ref_blk`)** from the reference file (`pyrho_EUR_LD_blocks`).
   - Each text file will contain SNP IDs from the input file where the SNP's position falls within the range specified by the corresponding block in the reference file.
 - `7.combine_ld_snp.sh`: Script that combines all SNP IDs from each LD block into one single list.
 - `8.calc_ld.sh`: Script that computes LD matrix for each LD block.
