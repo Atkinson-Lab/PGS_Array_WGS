@@ -1,0 +1,10 @@
+Height 434809
+DBP 402068
+HDL 374709
+TC 409385
+RBC 418075
+leukocyte 416522
+T2D 437566
+Asthma 431413
+Breast_Cancer 228581
+Colorectal_Cancer 407157
