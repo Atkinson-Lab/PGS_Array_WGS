@@ -7,10 +7,11 @@ git clone https://github.com/jmacdon/LDblocks_GRCh38.git
 ```
 The genotype we used was from the 1kGP and HGDP joint call set, which was downloaded from our internal server at the time of analysis. 
 
+
+### Scripts:
 The following scripts were used in sequence to build the hg38 LD matrix. They were inspired by PRS-CS, with modifications to fit our dataset. See their instruction:
 https://github.com/getian107/PRScs/issues/13#issuecomment-632860500
 
-### Scripts:
 - `1.extract_eur.sh`: Script that extracts unrelated EUR samples from the joint call set.
 - `2.qc.sh`: Script for variant QC.
 - `3.annotate_maf.sh`: Script that annotates MAF information.
