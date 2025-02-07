@@ -1,11 +1,11 @@
 # Build hg38 LD matrix
 
 ### Datasets: 
-To build the EUR LD matrix using genome-wide SNPs, we downloaded the hg38 EUR LD blocks from here:
+- To build the EUR LD matrix using genome-wide SNPs, we downloaded the hg38 EUR LD blocks from here:
 ```
 git clone https://github.com/jmacdon/LDblocks_GRCh38.git
 ```
-The genotype we used was from the 1kGP and HGDP joint call set, which was downloaded from our internal server at the time of analysis. 
+- The genotype we used was from the 1kGP and HGDP joint call set, which was downloaded from our internal server at the time of analysis. 
 
 
 ### Scripts:
