@@ -6,6 +6,5 @@
 - `2.annotate_rsID.R`: Since LDSC recognizes rsID, this script annotates SNPs with dbSNP rsIDs.
 - `3.convert_pval.sh`: The original p-values in the sumstats have been -log10 transformed. This script transforms them back to the oringinal p-values.
 - `4.recol.sh`: Script that changes column names so that munge_sumstats.py can recognize.
-- `5.munge_sumstats.sh`: Script adapted from LDSC that further formats the sumstats.
-- `6.h2.sh`: Script that computes heritability used in LDSC.
-
+- `5.munge_sumstats.sh`: Script that runs munge_sumstats.py from LDSC, which further formats the sumstats.
+- `6.h2.sh`: Script that runs ldsc.py, which computes heritability used in LDSC.
