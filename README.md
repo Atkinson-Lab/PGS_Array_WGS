@@ -7,7 +7,7 @@
 
 - `ldblk`: Contains codes for generating the whole-genome LD matrix in 1kGP + HGDP EUR.
 
-- `LDSCS`: Contains codes for calculating heritability for the 10 Pan UKBB tratis.
+- `LDSC`: Contains codes for calculating heritability for the 10 Pan UKBB tratis.
 
 - `phenotype_list.txt`: Lists 10 Pan UKBB GWAS traits and their sample sizes that were used in PRS-CS and LDSC.
   
