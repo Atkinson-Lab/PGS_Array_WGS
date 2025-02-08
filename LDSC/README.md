@@ -8,3 +8,6 @@
 - `4.recol.sh`: Script that changes column names so that munge_sumstats.py can recognize.
 - `5.munge_sumstats.sh`: Script that runs munge_sumstats.py from LDSC, which further formats the sumstats.
 - `6.h2.sh`: Script that runs ldsc.py, which computes heritability used in LDSC.
+
+For more information about LDSC, please visit https://github.com/bulik/ldsc.
+  
