@@ -12,13 +12,13 @@
 
 - `Export_to_PRScs.ipynb`: Code for generating inputs for running PRS-CS. 
 - `PRScs_Compute_PGS.ipynb`: Code for computing polygenic scores with posterior effect sizes inferred from PRS-CS.  
-- `PRScs_Compute_R2.ipynb`: Code for computing R2 metrics from the above PGS.
+- `PRScs_Compute_R2.ipynb`: Code for computing R<sup>2 </sup>metrics from the above PGS.
 - `PRScs_Compute_PGS_hg38.ipynb`: Code for computing polygenic scores with posterior effect sizes inferred from PRS-CS, which used the hg38 whole-genome LD panel.
-- `PRScs_Compute_R2_hg38.ipynb`: Code for computing R2 metrics from the above PGS.
+- `PRScs_Compute_R2_hg38.ipynb`: Code for computing R<sup>2 </sup> metrics from the above PGS.
 
 ### 3. R2_Comparsion:
 
-- `R2_Comparison.ipynb`: Code used to generate R2 plots from either C+T or PRS-CS.
+- `R2_Comparison.ipynb`: Code used to generate R<sup>2 </sup> plots from either C+T or PRS-CS.
 
 ### 4. Allele frequency:
 
