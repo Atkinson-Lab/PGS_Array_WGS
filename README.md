@@ -12,3 +12,10 @@
 - `phenotype_list.txt`: Lists 10 Pan-UKBB GWAS traits and their sample sizes that were used in PRS-CS and LDSC.
   
 ***Please refer to the README in each folder for more detailed descriptions.***
+
+
+Current publication: 
+
+Differential performance of polygenic prediction across traits and populations depending on genotype discovery approach
+Yi-Sian Lin, Taotao Tan, Ying Wang, Bogdan Pasaniuc, Alicia Martin, Elizabeth G Atkinson
+bioRxiv 2025.03.18.644029; doi: https://doi.org/10.1101/2025.03.18.644029
