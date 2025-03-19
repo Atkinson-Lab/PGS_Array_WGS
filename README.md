@@ -1,7 +1,7 @@
 # Array-PGS vs. WGS-PGS 
 ### Here are the directories and file used for the PGS analyses in the paper:
 
-- `All_of_Us`: Contains the main scripts used for PGS comptation on the *All of Us* platform. All individaul-level information has been removed. 
+- `All_of_Us`: Contains the main scripts used for PGS computation on the *All of Us* platform. All individaul-level information has been removed. 
 
 - `PRS-CS`: Contains scripts for running PRS-CS on a local machine. The outpus were uploaded back onto the *All of Us* platform to compute PGS.
 
