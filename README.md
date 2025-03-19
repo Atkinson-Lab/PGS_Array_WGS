@@ -9,6 +9,6 @@
 
 - `LDSC`: Contains codes for calculating heritability for the 10 Pan-UKBB tratis.
 
-- `phenotype_list.txt`: Lists 10 Pan UKBB GWAS traits and their sample sizes that were used in PRS-CS and LDSC.
+- `phenotype_list.txt`: Lists 10 Pan-UKBB GWAS traits and their sample sizes that were used in PRS-CS and LDSC.
   
 ***Please refer to the README in each folder for more detailed descriptions.***
