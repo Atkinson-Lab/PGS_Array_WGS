@@ -6,7 +6,7 @@
 - `Step3_Clumping.ipynb`: Code for LD clumping.
 - `Step4_Compute_PGS.ipynb`: Code for computing polygenic scores.
 - `Step5_Compute_R2.ipynb`: Code for obtaining performance metrics.
-- `a` means code using array genotype; `b` means code using WGS genotype; and `c` means code for WGS genotyping but only in AFR, which underwent further QC.
+- `a` means code using array genotype; `b` means code using WGS genotype.
 
 ### 2. Scripts used for PRS-CS have the prefix or suffix "`PRScs`":
 
@@ -23,11 +23,9 @@
 ### 4. Allele frequency:
 
 - `Calculate_AF_all.ipynb`: Code for calculating allele frequency for all traits.
-- `Calculate_AF_HDL.ipynb`: Code for calculating allele frequency for HDL only.
 
 ### 5. Scripts used for QC have the prefix "`Supp`":
 
 - `Supp_TGP_QC.ipynb`: Code for QC on the 1kGP reference panel.
 - `Supp_Array_QC.ipynb`: Code for QC on array variants.
 - `Supp_WGS_QC.ipynb`: Code for QC on WGS variants.
-- `Supp_WGS_AFR_QC.ipynb`: Code for AFR-specific QC on WGS variants.
