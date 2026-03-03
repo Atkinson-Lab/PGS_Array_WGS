@@ -24,6 +24,6 @@
 
 Causal variant capture in genotype discovery approaches drives polygenic prediction performance across traits and populations
 
-Yi-Sian Lin, Taotao Tan, Ying Wang, Bogdan Pasaniuc, Alicia Martin, Elizabeth G Atkinson
+Yi-Sian Lin, Taotao Tan, Ying Wang, Bogdan Pasaniuc, Alicia R. Martin, Elizabeth G. Atkinson
 
 bioRxiv 2025.03.18.644029; doi: https://doi.org/10.1101/2025.03.18.644029
