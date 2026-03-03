@@ -22,7 +22,7 @@
 #
 ### Current publication: 
 
-Differential performance of polygenic prediction across traits and populations depending on genotype discovery approach
+Causal variant capture in genotype discovery approaches drives polygenic prediction performance across traits and populations
 
 Yi-Sian Lin, Taotao Tan, Ying Wang, Bogdan Pasaniuc, Alicia Martin, Elizabeth G Atkinson
 
