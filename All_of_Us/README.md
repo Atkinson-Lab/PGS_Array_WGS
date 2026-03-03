@@ -20,12 +20,8 @@
 
 - `R2_Comparison.ipynb`: Code used to generate R<sup>2 </sup> plots from either C+T or PRS-CS.
 
-### 4. Allele frequency:
+### 4. Scripts used for QC have the prefix "`Supp`":
 
-- `Calculate_AF_all.ipynb`: Code for calculating allele frequency for all traits.
-
-### 5. Scripts used for QC have the prefix "`Supp`":
-
-- `Supp_TGP_QC.ipynb`: Code for QC on the 1kGP reference panel.
+- `Supp_TGP_QC.ipynb`: Code for QC on the TGP reference panel.
 - `Supp_Array_QC.ipynb`: Code for QC on array variants.
 - `Supp_WGS_QC.ipynb`: Code for QC on WGS variants.
