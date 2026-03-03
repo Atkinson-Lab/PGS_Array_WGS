@@ -9,6 +9,12 @@
 
 - `LDSC`: Contains codes for calculating heritability for the 10 Pan-UKBB tratis.
 
+- `PGS-Catalog`: Contains codes for evaluating PGS-Catalog models in UKBB cohort.
+
+- `Simulation`: Contains codes for simulating various trait settings based on real genotypes.
+
+- `Fine-mapping`: Contains codes for identifying likely causal SNPs using SuSiE.
+
 - `phenotype_list.txt`: Lists 10 Pan-UKBB GWAS traits and their sample sizes that were used in PRS-CS and LDSC.
   
 ***Please refer to the README in each folder for more detailed descriptions.***
