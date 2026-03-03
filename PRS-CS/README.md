@@ -1,9 +1,9 @@
 # PRS-CS
 ### The codes for running PRS-CS:
 
-- `make_bim.sh`: Since PRS-CS requires a BIM file as an input, this script generates a BIM format file without using PLINK.
-- `make_array_sst.sh` and  `make_wgs_sst.sh`: Scripts for generating summary statistics files in the format required by PRS-CS.
-- `run_prs_cs_array.sh` and `run_prs_cs_wgs.sh`: Scripts for running the PRS-CS program.
+- `1a.make_array_sst.sh` and  `1b.make_wgs_sst.sh`: Scripts for generating summary statistics files in the format required by PRS-CS.
+- `2.make_bim.sh`: Since PRS-CS requires a BIM file as an input, this script generates a BIM format file without using PLINK.
+- `3a.run_prs_cs_array.sh` and `3b.run_prs_cs_wgs.sh`: Scripts for running the PRS-CS program.
 
 
 ***Important notes***
