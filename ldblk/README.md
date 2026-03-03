@@ -4,7 +4,7 @@
 - To build the EUR LD matrix using genome-wide SNPs, we downloaded the hg38 EUR LD blocks from here:
 (https://github.com/jmacdon/LDblocks_GRCh38/blob/master/data/pyrho_EUR_LD_blocks.bed)
 
-- The genotype we used was from the 1kGP and HGDP joint call set, which was downloaded from our internal server at the time of analysis. 
+- The genotype we used was from the TGP and HGDP joint call set, which was stored on our department server at the time of analysis. 
 
 
 ### Scripts:
