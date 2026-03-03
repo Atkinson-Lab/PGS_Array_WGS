@@ -5,7 +5,7 @@
 
 - `PRS-CS`: Contains scripts for running PRS-CS on a local machine. The outpus were uploaded back onto the *All of Us* platform to compute PGS.
 
-- `ldblk`: Contains codes for generating the whole-genome LD matrix in 1kGP + HGDP EUR.
+- `ldblk`: Contains codes for generating the whole-genome LD matrix in TGP + HGDP EUR.
 
 - `LDSC`: Contains codes for calculating heritability for the 10 Pan-UKBB tratis.
 
